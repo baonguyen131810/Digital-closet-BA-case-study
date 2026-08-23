@@ -87,7 +87,7 @@ Section 4.
 ## Process Flow
 
 ### As-Is: Current Manual Process
-![As-Is process diagram](as-is-process-diagram.png)
+![As-Is process diagram](As-is%30process%20diagram.png)
 
 Today, without any app, users either dig through their physical closet
 item by item or follow no fixed process at all. Both paths lead to the
@@ -96,7 +96,7 @@ combination never being saved anywhere** once decided.
 
 ### To-Be: Capsule Process
 
-![To-Be process diagram](To-be-process-diagram.png)
+![To-Be process diagram](To-Be%20process%20diagram.png)
 
 With the app, the user opens the app and either searches by hashtag or
 browses the closet directly, selects items, combines them into a Look,
