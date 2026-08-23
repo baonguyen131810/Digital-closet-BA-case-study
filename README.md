@@ -87,7 +87,7 @@ Section 4.
 ## Process Flow
 
 ### As-Is: Current Manual Process
-![As-Is process diagram](as-is process diagram.png)
+![As-Is process diagram](as-is-process-diagram.png)
 
 Today, without any app, users either dig through their physical closet
 item by item or follow no fixed process at all. Both paths lead to the
@@ -96,9 +96,9 @@ combination never being saved anywhere** once decided.
 
 ### To-Be: Capsule Process
 
-![To-Be process diagram](To-be process diagram.png)
+![To-Be process diagram](To-be-process-diagram.png)
 
-With Capsule, the user opens the app and either searches by hashtag or
+With the app, the user opens the app and either searches by hashtag or
 browses the closet directly, selects items, combines them into a Look,
 and saves it. From there the Look can serve a single occasion, get filed
 into a Collection, or get assigned to a specific day of a Trip. Every path
@@ -117,3 +117,33 @@ objective:
 | **Outfit Styling (Look)** | Let users build and save reusable outfit combinations |
 | **Organization (Collection)** | Let users group items/Looks around their own categories |
 | **Trip Planning** | Let users plan outfits ahead of a trip or event |
+
+## Screens
+
+UI reference designs, built with Figma AI-assisted design tools.
+
+| | | |
+|---|---|---|
+| ![Login/Sign up](Visual%20Demo/1.login-signup.png) Login / Sign-up | ![Profile](Visual%20Demo/2.profile-personal-info.png) Profile & Personal Info | ![Wardrobe Home](Visual%20Demo/3.wardrobe-home.png) Wardrobe Home |
+| ![Camera Capture](Visual%20Demo/4.camera-capture.png) Add Item (background removal) | ![Item Detail](Visual%20Demo/5.item-detail.png) Item Detail | ![Outfit Builder](Visual%20Demo/6.outfit-builder.png) Outfit Builder (Look) |
+| ![Saved Outfits](Visual%20Demo/7.saved-outfits.png) Saved Outfits | ![Calendar Planner](Visual%20Demo/8.calendar-planner.png) Calendar Planner | ![Collections](Visual%20Demo/9.collections.png) Collections |
+| ![Trip Planner](Visual%20Demo/10.trip-planner.png) Trip Planner | | |
+
+## Documentation
+
+| Artifact | Description |
+|---|---|
+| [Business Requirements Document](BRD%20document/BRD_Digital_Closet.docx) | Business objectives, current-state analysis, market & gap analysis, business rules, Epics, stakeholders, risks, dependencies |
+
+## What's Not Done / Next Steps
+
+Kept visible deliberately -- an honest map of what this case study does
+and doesn't cover yet:
+
+- **No formal user research** -- pain points are based on the project
+  owner's own experience, not validated interviews.
+- **No usability testing or accessibility review** conducted.
+- **Platform/framework, budget, and timeline** are unresolved -- this was
+  scoped as a documentation exercise, not a funded build.
+- **Market differentiation is modest** -- see Market Context above; this
+  is flagged as a risk in the BRD rather than glossed over.
