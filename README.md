@@ -87,7 +87,7 @@ Section 4.
 ## Process Flow
 
 ### As-Is: Current Manual Process
-![As-Is process diagram](As-is%30process%20diagram.png)
+![As-Is process diagram](As-is%20process%20diagram.png)
 
 Today, without any app, users either dig through their physical closet
 item by item or follow no fixed process at all. Both paths lead to the
